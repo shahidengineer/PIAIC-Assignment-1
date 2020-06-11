@@ -1,6 +1,6 @@
 PIAIC-ASSIGNMENT - 1
 
-This repository contains answers of 08 questions for assignment 1 (with 1,000 data set of students) from PIAIC student. The data set for 1,000 student performance is attached as studentsperformance.csv and following were the questions:
+This repository contains answers of 08 questions for assignment 1 (with 1,000 data set of students) given to us by PIAIC. The data set for 1,000 student performance is attached as studentsperformance.csv and following were the questions:
 
 Q1 - Are female students performing better than male students in <given subject> (take user input)?
 
